@@ -264,6 +264,7 @@ h4 {
     max-width:900px;
     position:relative;
     margin:auto;
+    z-index:1
 }
 
 .mySlides {
