@@ -495,7 +495,7 @@ h4 {
     position:relative;
     display:inline-block;
     width:35%;
-    min-width:400px;
+    min-width:350px;
     height:35%;
    
 }
@@ -506,7 +506,7 @@ h4 {
     position:relative;
     display:inline-block;
     width:35%;
-    min-width:490px;
+    min-width:350px;
     padding-left:45px;
     padding-right:45px;
     bottom:170px;
